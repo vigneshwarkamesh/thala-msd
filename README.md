@@ -1,1 +1,2 @@
-# thala-msd
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
